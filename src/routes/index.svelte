@@ -26,6 +26,6 @@
 
 <style>
 	.icon {
-		@apply hover:scale-110 transition-all hover:bg-black dark:hover:bg-white hover:bg-opacity-10 rounded-full p-3;
+		@apply hover:scale-110 transition-all hover:bg-black dark:hover:bg-white hover:bg-opacity-10 dark:hover:bg-opacity-10 rounded-full p-3;
 	}
 </style>
