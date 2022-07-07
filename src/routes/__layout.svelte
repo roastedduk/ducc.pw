@@ -1,6 +1,6 @@
 <script lang="ts">
 	import "../app.css";
-	import "@fontsource/plus-jakarta-sans";
+	import "@fontsource/plus-jakarta-sans/variable.css";
 </script>
 
 <main>
