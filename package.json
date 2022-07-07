@@ -29,9 +29,7 @@
     "@fontsource/fira-mono": "^4.5.0",
     "@fontsource/plus-jakarta-sans": "^4.5.8",
     "@iconify-icons/tabler": "^1.2.19",
-    "@iconify/react": "^3.2.2",
     "@lukeed/uuid": "^2.0.0",
-    "cookie": "^0.4.1",
-    "cross-fetch": "^3.1.5"
+    "cookie": "^0.4.1"
   }
 }
