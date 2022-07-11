@@ -18,7 +18,7 @@
 <svelte:head>
 	<title>Home</title>
 </svelte:head>
-<section class="h-screen flex justify-center items-center">
+<section class="h-screen flex justify-center items-center mx-6">
 	<div class="flex flex-col w-screen items-center space-y-8 max-w-md md:max-w-none">
 		<h1 class="text-center">Quack! RoastedDuck here.</h1>
 		<div class="flex space-x-4">
