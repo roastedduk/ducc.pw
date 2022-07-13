@@ -22,13 +22,13 @@
 	<div class="flex flex-col w-screen items-center space-y-8 max-w-md md:max-w-none">
 		<h1 class="text-center">Quack! RoastedDuck here.</h1>
 		<div class="flex space-x-4">
-			<a href="https://github.com/roastedduk" class="icon"><Icon icon="github" width="32"/></a>
-			<a href="https://twitter.com/roastedduk" class="icon"><Icon icon="twitter" width="32"/></a>
-			<a href="https://discordapp.com/users/297958693293654016" class="icon"><Icon icon="discord" width="32"/></a>
-			<a href="https://t.me/roasted_duck" class="icon"><Icon icon="telegram" width="32"/></a>
+			<a href="https://github.com/roastedduk" class="icon hover:text-fuchsia-500"><Icon icon="github" width="32"/></a>
+			<a href="https://twitter.com/roastedduk" class="icon hover:text-blue-400"><Icon icon="twitter" width="32"/></a>
+			<a href="https://discordapp.com/users/297958693293654016" class="icon hover:text-indigo-500"><Icon icon="discord" width="32"/></a>
+			<a href="https://t.me/roasted_duck" class="icon hover:text-cyan-400"><Icon icon="telegram" width="32"/></a>
 		</div>
 		<div>
-			There's more to come!
+			Stay tuned for updates!
 		</div>
 	</div>
 </section>
