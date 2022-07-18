@@ -18,8 +18,9 @@
 <svelte:head>
 	<title>Home</title>
 </svelte:head>
-<section class="h-screen flex justify-center items-center mx-6">
+<section class="h-screen flex justify-center items-center mx-4">
 	<div class="flex flex-col w-screen items-center space-y-8 max-w-md md:max-w-none">
+		<img class="h-auto w-32 rounded-full" src="/images/roasted_duck.jpg" alt="RoastedDuck">
 		<h1 class="text-center">Quack! RoastedDuck here.</h1>
 		<div class="flex space-x-4">
 			<a href="https://github.com/roastedduk" class="icon hover:text-fuchsia-500"><Icon icon="github" width="32"/></a>
